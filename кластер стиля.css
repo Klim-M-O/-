@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2 ?family=Dancing+Script:wght@500&display=swap');
+body{
+	background: #000 url("i.webp") no-repeat top;
+	background-attachment: fixed;
+	background-size: cover;
+}
+@keyframes anim{
+0%{
+height: 0px;
+width: 0px;
+}
+100%{
+height:auto;
+width: auto;
+ }
+}
+#химик{
+	background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  border: 7px dotted;
+  line-height: 70px;
+  border-bottom: 0 ;
+  padding: 10px 10px;
+  animation-name: anim;
+  animation-duration: 1s ;
+}
+.en{
+ font-family: "Dancing_Script", cursive;
+}
+#дата{
+	background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+ border-left: 7px dotted;
+}
+.str{
+	 font-family: "Dancing_Script", cursive;
+}
+.cit{
+	 font-family: "Dancing_Script", cursive;
+}
+#цитата{
+	background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+  border-left: 7px dotted;
+}
+#инфо{
+	background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+  border-left: 7px dotted;
+}
+#интересное{
+background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+  border-left: 7px dotted;
+}
+#достик{
+background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+  border-left: 7px dotted;
+}
+.инфо
+{
+	background: ;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+  padding:;
+}
